@@ -2,5 +2,5 @@
 This is a progress bar showed how I've understood these papers
 
 ## 1. Model architecture
-| Paper | Yep 25% |
-| ----- | --------|
+| Paper | :white_check_mark: 25% |
+| ----- | -----------------------|
