@@ -2,5 +2,5 @@
 This is a progress bar showed how I've understood these papers
 
 ## 1. Model architecture
-| Paper | <ul><li>[ ] 10%-20%</li></ul> |
-| ----- | -----------------------------|
+| Paper | Yep 25% |
+| ----- | --------|
