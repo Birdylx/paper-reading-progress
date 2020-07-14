@@ -4,6 +4,12 @@ This is a progress bar showed how I've understood these papers
 ## 1. Model architecture
 | Paper | :sob: 25% | :unamused: 50% | :anguished: 75% | :blush: 100% | :link: Code Link |
 | :-----: | :------ | :------ | :----- | :---- | :---- |
-| VGG | :ballot_box_with_check: | :ballot_box_with_check: |  |  | [https://pages.github.com/](https://pages.github.com/) |
-| ResNet |  
-| Inception | 
+| VGG | - | - | - | - | - |
+| ResNet |  - | - | - | - | - |
+| Inception | - | - | - | - | - |
+
+## 2. Detection
+| Paper | :sob: 25% | :unamused: 50% | :anguished: 75% | :blush: 100% | :link: Code Link |
+| :-----: | :------ | :------ | :----- | :---- | :---- |
+| FasterRCNN | :ballot_box_with_check: | :ballot_box_with_check: | - | - | - |
+| MaskRCNN | :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | - |
